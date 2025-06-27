@@ -34,10 +34,10 @@ bash
 pip install asyncio
 
 # Запуск задач
-python task1_coroutines.py
-python task2_states.py
-python task3_threads.py
-python task4_semaphore.py
+python task1_coroutines.py,
+python task2_states.py,
+python task3_threads.py,
+python task4_semaphore.py,
 
 🛠 Технологии
 Python 3.7+
